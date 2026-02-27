@@ -9,7 +9,8 @@ To uninstall the program and remove all associated files, run dproxy.exe again a
 
 Manual Installation If you prefer manual installation, copy the version.dll and dproxy.ini files into the folder containing the targeted app. The proxy is specified in the dproxy.ini file under the proxy parameter.
 
-Example dproxy.ini Configuration: [dproxy] ; Proxy can use http or socks5 protocols proxy = http://127.0.0.1:1080
+Example
+dproxy.ini Configuration: [dproxy] ; Proxy can use http or socks5 protocols proxy = http://127.0.0.1:1080
 
 ;use-nekobox-proxy = 1 ;nekobox-proxy = http://127.0.0.1:2080
 
@@ -21,3 +22,6 @@ In Direct mode, no proxy is used, only UDP manipulation is performed.
 Supports HTTP proxies with authentication (login and password).
 No drivers or system-level modifications are required.
 Works locally at the process level, offering an alternative to global VPN solutions.
+
+
+EDIT : Deleted
