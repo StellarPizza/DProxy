@@ -11,7 +11,6 @@ Manual Installation If you prefer manual installation, copy the version.dll and 
 
 Example
 dproxy.ini Configuration: [dproxy] ; Proxy can use http or socks5 protocols proxy = http://127.0.0.1:1080
-
 ;use-nekobox-proxy = 1 ;nekobox-proxy = http://127.0.0.1:2080
 
 
