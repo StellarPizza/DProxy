@@ -25,3 +25,4 @@ Works locally at the process level, offering an alternative to global VPN soluti
 
 
 EDIT : Deleted
+Removed the latest release/update
